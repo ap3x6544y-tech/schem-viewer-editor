@@ -1,0 +1,10 @@
+﻿{
+    "version":  "1.1.0",
+    "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.0/Schem.Viewer.Editor.zip",
+    "sha256":  "D298BC3676AA38A8C33121DB2CE85A71DA8CC8E844BA9FE1CB413E3704656436",
+    "notes":  [
+                  "Added one-click update support.",
+                  "Added autosave and recovery support.",
+                  "Added updater safety hash checking."
+              ]
+}
