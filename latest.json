@@ -1,7 +1,7 @@
 {
     "version":  "1.1.2",
     "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.2/Schem.Viewer.Editor.zip",
-    "sha256":  "D36A2DE7F082235C753E09B95B7C76F7F95F273AB6C85CF6E8DED5DB2CCA0FAF",
+    "sha256":  "53FEACBA6ABD193B4CA9A08F04D8FAC87BAB3827CD9BF7556B9999835D958F1C",
     "notes":  [
                   "Doors now place as one full door from the block picker.",
                   "Doors and trapdoors can be opened and closed with right-click in edit mode.",
