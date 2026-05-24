@@ -1,9 +1,12 @@
 {
-    "version":  "1.1.1",
-    "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.1/Schem.Viewer.Editor.zip",
-    "sha256":  "CF1F6F029123B3285569B9946C14CE2F332DF8E0168B1B1ED40E5756FAB9DCB5",
+    "version":  "1.1.2",
+    "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.2/Schem.Viewer.Editor.zip",
+    "sha256":  "01AA6FEC797A23B114C96B46B46E0A6DFE9BC8925C173C08807B55CE560EED22",
     "notes":  [
-                  "Fixed a close-window crash that could happen on some PCs.",
-                  "Improved shutdown safety for the OpenGL renderer."
+                  "Doors now place as one full door from the block picker.",
+                  "Doors and trapdoors can be opened and closed with right-click in edit mode.",
+                  "Glass panes now render as thin Minecraft-style panes and connect correctly.",
+                  "Added a Placement Preview on/off button and improved block picker search behavior.",
+                  "Player Camera now returns to a closer orbit view when turned off."
               ]
 }
