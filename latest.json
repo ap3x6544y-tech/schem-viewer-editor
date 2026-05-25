@@ -1,12 +1,14 @@
 {
     "version":  "1.1.3",
     "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.3/Schem.Viewer.Editor.zip",
-    "sha256":  "A87BC0820004EDDEAAB025EB6BFA6CD893BBB11B8FBD8B1BF2B523CA24CDBDCC",
+    "sha256":  "216D907D8F56D218EF8FC97E7BE3F02EE3624AF53BB534736D30D6B46A34FBC6",
     "notes":  [
                   "Fixed update downloads on PCs that fail GitHub certificate checks.",
                   "Added a bundled trusted certificate file for update checks.",
                   "Added 16x16x16 chunk rendering for smoother editing on bigger builds.",
+                  "Hid chunk render seam lines so chunks are not visible.",
                   "Increased the built-in grass platform to 128x256x128.",
+                  "Mouse player-camera mode now shows the crosshair and hides the mouse cursor until the M menu opens.",
                   "Player Camera now supports smoother mouse-look without dragging.",
                   "Open .schem, Help, and Settings stay outside the tool menu.",
                   "Improved mouse and keyboard controls for building.",
