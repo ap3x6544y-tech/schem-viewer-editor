@@ -1,12 +1,13 @@
 {
-    "version":  "1.1.2",
-    "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.2/Schem.Viewer.Editor.zip",
-    "sha256":  "53FEACBA6ABD193B4CA9A08F04D8FAC87BAB3827CD9BF7556B9999835D958F1C",
+    "version":  "1.1.3",
+    "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.3/Schem.Viewer.Editor.zip",
+    "sha256":  "785DEAFB078A472A32A6A56622EDCF0E68C7EF765D702DF1D96F020460F79453",
     "notes":  [
-                  "Doors now place as one full door from the block picker.",
-                  "Doors and trapdoors can be opened and closed with right-click in edit mode.",
-                  "Glass panes now render as thin Minecraft-style panes and connect correctly.",
-                  "Added a Placement Preview on/off button and improved block picker search behavior.",
-                  "Player Camera now returns to a closer orbit view when turned off."
+                  "Added a tool menu that opens and closes with the M key.",
+                  "Player Camera now supports smoother mouse-look without dragging.",
+                  "Open .schem, Help, and Settings stay outside the tool menu.",
+                  "Improved mouse and keyboard controls for building.",
+                  "Doors now auto-match hinges when placed as double doors.",
+                  "Fixed A and D player movement direction."
               ]
 }
