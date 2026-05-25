@@ -1,9 +1,10 @@
 {
     "version":  "1.1.3",
     "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.3/Schem.Viewer.Editor.zip",
-    "sha256":  "785DEAFB078A472A32A6A56622EDCF0E68C7EF765D702DF1D96F020460F79453",
+    "sha256":  "4063D3F07CF8B4F9990231A36572C42D22B9783014620F10477FD4B6E5FE6FDD",
     "notes":  [
-                  "Added a tool menu that opens and closes with the M key.",
+                  "Fixed update downloads on PCs that fail GitHub certificate checks.",
+                  "Added a bundled trusted certificate file for update checks.",
                   "Player Camera now supports smoother mouse-look without dragging.",
                   "Open .schem, Help, and Settings stay outside the tool menu.",
                   "Improved mouse and keyboard controls for building.",
