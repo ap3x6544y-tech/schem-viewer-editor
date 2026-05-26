@@ -1,11 +1,9 @@
 {
-    "version":  "1.1.3",
-    "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.3/Schem.Viewer.Editor.zip",
-    "sha256":  "3C3FCBCB08FA0B659D1FC489A6A8B59DB77BAE18C0A4003491BDD807B06B1631",
+    "version":  "1.1.4",
+    "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.4/Schem.Viewer.Editor.zip",
+    "sha256":  "6147F4FF26C469AAFA621ACE1A5512E3F81305A75C9665D38A3971E96554C413",
     "notes":  [
-                  "Added expanded Developer Tools with version changer, release notes box, build release, package checker, virus scan, GitHub upload, and release page opener.",
-                  "Developer Tools now updates latest.json and GitHub release notes from the app.",
-                  "Package checks show zip, textures, updater, developer config status, source-script status, and SHA256.",
-                  "Public release zip still keeps developer_mode.json out of the download."
+                  "Fixed the mouse Player Camera crosshair so it stays visible while looking around.",
+                  "Crosshair still hides when menus, settings, block picker, or Developer Tools are open."
               ]
 }
