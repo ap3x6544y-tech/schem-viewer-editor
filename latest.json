@@ -1,9 +1,10 @@
 {
     "version":  "1.1.4",
     "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.4/Schem.Viewer.Editor.zip",
-    "sha256":  "6147F4FF26C469AAFA621ACE1A5512E3F81305A75C9665D38A3971E96554C413",
+    "sha256":  "4A9120EE666F3D1CF080687B2670672E4EFB65CF8DBA8D3BD8C731BDE047D724",
     "notes":  [
-                  "Fixed the mouse Player Camera crosshair so it stays visible while looking around.",
-                  "Crosshair still hides when menus, settings, block picker, or Developer Tools are open."
+                  "Added Build Height Guide with Y-level rings and current height labels.",
+                  "Block info now shows exact X, Y, Z position for the block being pointed at.",
+                  "Controller input now only works while Schem Viewer/Editor is the active window and releases when minimized or unfocused."
               ]
 }
