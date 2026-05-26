@@ -1,10 +1,10 @@
 {
     "version":  "1.1.4",
     "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.4/Schem.Viewer.Editor.zip",
-    "sha256":  "4A9120EE666F3D1CF080687B2670672E4EFB65CF8DBA8D3BD8C731BDE047D724",
+    "sha256":  "9913A2A99FF339BBD781862E6BE56E165CFD8B9A2D03D21D10C1F8D66AEA6EEF",
     "notes":  [
-                  "Added Build Height Guide with Y-level rings and current height labels.",
-                  "Block info now shows exact X, Y, Z position for the block being pointed at.",
-                  "Controller input now only works while Schem Viewer/Editor is the active window and releases when minimized or unfocused."
+                  "Added the new Schem Viewer/Editor app icon to the window and packaged EXE.",
+                  "Height Guide shows a clean Y-level readout without drawing grid lines over the build.",
+                  "Controller input only works while Schem Viewer/Editor is the active window and releases when minimized or unfocused."
               ]
 }
