@@ -1,10 +1,11 @@
 {
-    "version":  "1.1.4",
-    "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.4/Schem.Viewer.Editor.zip",
-    "sha256":  "9913A2A99FF339BBD781862E6BE56E165CFD8B9A2D03D21D10C1F8D66AEA6EEF",
+    "version":  "1.1.5",
+    "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.5/Schem.Viewer.Editor.zip",
+    "sha256":  "29EB45BE2AAB8AC90490EA95C5A91DD35D621CD1F5F6ABB4B473290181A276E3",
     "notes":  [
-                  "Added the new Schem Viewer/Editor app icon to the window and packaged EXE.",
-                  "Height Guide shows a clean Y-level readout without drawing grid lines over the build.",
-                  "Controller input only works while Schem Viewer/Editor is the active window and releases when minimized or unfocused."
+                  "Added Transform as a fourth edit tool with X/Y/Z and Min/Max resizing.",
+                  "Growing extrudes the selected edge layer; shrinking removes layers.",
+                  "Added live target-box preview and selection-aware undo.",
+                  "Refactored the editor into focused modules for safer future development."
               ]
 }
