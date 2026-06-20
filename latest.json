@@ -1,11 +1,12 @@
 {
-    "version":  "1.1.5",
-    "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.5/Schem.Viewer.Editor.zip",
-    "sha256":  "29EB45BE2AAB8AC90490EA95C5A91DD35D621CD1F5F6ABB4B473290181A276E3",
+    "version":  "1.1.6",
+    "download_url":  "https://github.com/ap3x6544y-tech/schem-viewer-editor/releases/download/v1.1.6/Schem.Viewer.Editor.zip",
+    "sha256":  "D18A3A6F72034B0C946867405FA5E62B4DA64615E43DA66173AD8853A0CC56B8",
     "notes":  [
-                  "Added Transform as a fourth edit tool with X/Y/Z and Min/Max resizing.",
-                  "Growing extrudes the selected edge layer; shrinking removes layers.",
-                  "Added live target-box preview and selection-aware undo.",
-                  "Refactored the editor into focused modules for safer future development."
+                  "Added Player Connect Beta for LAN hosting, session discovery, joining by IP or invite code, live player markers, and chat.",
+                  "Added host-controlled guest permissions for place, erase, and paint/replace, plus guest kicking, edit history, and automatic pre-session backups.",
+                  "Added a full-screen searchable Minecraft-style inventory and hotbar block picker.",
+                  "Added a persistent Clipboard Library for saving and reusing copied build pieces.",
+                  "Improved multiplayer-safe editing, menus, camera input handling, and connection status."
               ]
 }
